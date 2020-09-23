@@ -1,0 +1,194 @@
+date_sold,price,original_price,price_spread,square_footage,lot_size,number_bedrooms,number_bathrooms,year_built,property_type,street_number,street_name,city,state,zip_code,days_until_sold,is_short_sale,url
+1598397300000,579900,645000,65100,1608,5700,2,1.5,1940,residential,219,Beech Ave,Melrose,MA,02176,61,False,https://redfin.com/MA/Melrose/219-Beech-Ave-02176/home/11784041
+1599588000000,569900,560000,-9900,1250,,,,,condo,62,Circuit St,Melrose,MA,02176,62,False,https://redfin.com/MA/Melrose/62-Circuit-St-02176/unit-2/home/172392225
+2020-08-14,595000,,,1641,,3,1.5,1900,condo,106,Ashland St,Melrose,MA,02176,,,https://redfin.com/MA/Melrose/106-Ashland-St-02176/unit-106/home/18960224
+1595274360000,519900,538000,18100,1389,5937,3,1.5,1910,residential,1094,Main St,Melrose,MA,02176,54,False,https://redfin.com/MA/Melrose/1094-Main-St-02176/home/11789077
+1594237860000,659900,735501,75601,1996,5991,3,1.5,1925,residential,67,,Melrose,MA,02176,55,False,https://redfin.com/MA/Melrose/67-Fellsway-E-02176/home/11786719
+1600292700000,619900,670000,50100,1845,8266,2,2.0,1950,residential,66,FLORENCE St,Melrose,MA,02176,41,False,https://redfin.com/MA/Melrose/66-Florence-St-02176/home/11791436
+1594142940000,589000,630000,41000,1868,7650,3,2.5,1950,residential,486,Upham St,Melrose,MA,02176,48,False,https://redfin.com/MA/Melrose/486-Upham-St-02176/home/11785847
+1594684380000,750000,805500,55500,2000,5612,3,2.0,1930,residential,76,Park St,Melrose,MA,02176,47,False,https://redfin.com/MA/Melrose/76-Park-St-02176/home/11782270
+1596492780000,599900,575000,-24900,1355,11676,3,1.5,1930,residential,20,Mount Zion Rd,Melrose,MA,02176,67,False,https://redfin.com/MA/Melrose/20-Mt-Zion-Rd-02176/home/11790736
+1594655460000,619900,723000,103100,1530,5500,3,1.5,1931,residential,57,Damon Ave,Melrose,MA,02176,46,False,https://redfin.com/MA/Melrose/57-Damon-Ave-02176/home/11790336
+1595110200000,588900,615000,26100,1733,,2,1.5,1896,condo,408,Lebanon St,Melrose,MA,02176,46,False,https://redfin.com/MA/Melrose/408-Lebanon-St-02176/unit-4/home/11781069
+1598658960000,629900,636500,6600,1378,10948,,,,condo,8,Greenleaf Pl,Melrose,MA,02176,147,False,https://redfin.com/MA/Melrose/8-Greenleaf-Pl-02176/unit-201/home/171258713
+1594090440000,575000,593000,18000,1504,3379,3,1.5,1897,residential,150,Lynde St,Melrose,MA,02176,47,False,https://redfin.com/MA/Melrose/150-Lynde-St-02176/home/11780821
+1593288060000,695000,795000,100000,1872,8712,3,1.5,1900,residential,25,Laurel St,Melrose,MA,02176,45,False,https://redfin.com/MA/Melrose/25-Laurel-St-02176/home/11782758
+1595687220000,799900,805000,5100,1649,7500,2,1.5,1926,residential,12,,Melrose,MA,02176,72,False,https://redfin.com/MA/Melrose/12-Morgan-St-02176/home/11789071
+1599079380000,649900,743870,93970,1539,6367,3,1.5,1922,residential,76,Linden Rd,Melrose,MA,02176,71,False,https://redfin.com/MA/Melrose/76-Linden-Rd-02176/home/11789767
+1598372700000,699900,811000,111100,1959,6314,3,1.5,1935,residential,16,Ardsmoor Rd,Melrose,MA,02176,48,False,https://redfin.com/MA/Melrose/16-Ardsmoor-Rd-02176/home/11785465
+1593273480000,569000,585000,16000,1387,4674,3,2.0,1915,residential,124,Mount Vernon Ave,Melrose,MA,02176,49,False,https://redfin.com/MA/Melrose/124-Mt-Vernon-Ave-02176/home/11779539
+1596159360000,459000,470000,11000,1576,3286,3,1.5,1900,residential,15,Ravine Ter,Melrose,MA,02176,65,False,https://redfin.com/MA/Melrose/15-Ravine-Ter-02176/home/11777119
+1597684380000,750000,830000,80000,1890,6200,3,1.5,1940,residential,73,Wentworth Rd,Melrose,MA,02176,40,False,https://redfin.com/MA/Melrose/73-Wentworth-Rd-02176/home/11777398
+1596491700000,619000,609000,-10000,1428,4500,3,1.5,1900,residential,75,Maple St,Melrose,MA,02176,136,False,https://redfin.com/MA/Melrose/75-Maple-St-02176/home/11791463
+1593719880000,539900,570000,30100,1332,5867,2,1.5,1951,residential,18,Rockwood St,Melrose,MA,02176,37,False,https://redfin.com/MA/Melrose/18-Rockwood-St-02176/home/11791618
+1593617880000,679900,745000,65100,2278,6394,2,1.5,1937,residential,147,Howard St,Melrose,MA,02176,41,False,https://redfin.com/MA/Melrose/147-Howard-St-02176/home/11790093
+1596334380000,765000,765000,0,1977,6453,3,2.5,1955,residential,174,Howard St,Melrose,MA,02176,81,False,https://redfin.com/MA/Melrose/174-Howard-St-02176/home/11791012
+1600463460000,699900,735000,35100,1796,6522,3,2.0,1928,residential,123,Howard St,Melrose,MA,02176,57,False,https://redfin.com/MA/Melrose/123-Howard-St-02176/home/11790085
+1598242020000,715000,745000,30000,1863,6267,3,1.5,1930,residential,159,Howard St,Melrose,MA,02176,38,False,https://redfin.com/MA/Melrose/159-Howard-St-02176/home/11791003
+1600219620000,699900,728200,28300,1613,8405,3,1.5,1940,residential,142,Boardman Ave,Melrose,MA,02176,68,False,https://redfin.com/MA/Melrose/142-Boardman-Ave-02176/home/11790710
+1595988720000,629900,629900,0,1490,5461,3,1.5,1922,residential,19,CASS St,Melrose,MA,02176,39,False,https://redfin.com/MA/Melrose/19-Cass-St-02176/home/11781283
+1593700740000,719900,725000,5100,1775,4828,3,2.0,1928,residential,86,Pearl St,Melrose,MA,02176,34,False,https://redfin.com/MA/Melrose/86-Pearl-St-02176/home/11790280
+1593475260000,659900,710000,50100,1754,13030,2,1.5,1900,condo,31,Youle St,Melrose,MA,02176,45,False,https://redfin.com/MA/Melrose/31-Youle-St-02176/unit-2/home/11786870
+1599002820000,579000,579000,0,1393,3975,3,2.0,1880,residential,36,Foster St,Melrose,MA,02176,70,False,https://redfin.com/MA/Melrose/36-E-Foster-St-02176/home/11780166
+1593209820000,574900,565000,-9900,1510,8923,3,1.0,1890,residential,64,York Ter,Melrose,MA,02176,91,False,https://redfin.com/MA/Melrose/64-York-Ter-02176/home/11786695
+1596043740000,589000,576000,-13000,1656,6750,3,2.0,1950,residential,19,Arlington St,Melrose,MA,02176,84,False,https://redfin.com/MA/Melrose/19-Arlington-St-02176/home/11782113
+1597634160000,799900,915000,115100,1710,8500,3,1.5,1870,residential,20,School St,Melrose,MA,02176,61,False,https://redfin.com/MA/Melrose/20-School-St-02176/home/11784658
+1595952840000,689900,790000,100100,1808,6325,3,1.5,1962,residential,104,Whitman Ave,Melrose,MA,02176,41,False,https://redfin.com/MA/Melrose/104-Whitman-Ave-02176/home/11782512
+1596306720000,549000,586502,37502,1499,8579,3,1.5,1889,residential,46,Spear St,Melrose,MA,02176,59,False,https://redfin.com/MA/Melrose/46-Spear-St-02176/home/11782050
+1596840840000,599900,615000,15100,1602,4254,3,2.0,1900,residential,372,Grove St,Melrose,MA,02176,50,False,https://redfin.com/MA/Melrose/372-Grove-St-02176/home/11784263
+1600202460000,689000,650000,-39000,1958,7405,3,2.5,1954,residential,101,Sycamore Rd,Melrose,MA,02176,62,False,https://redfin.com/MA/Melrose/101-Sycamore-Rd-02176/home/11785083
+1600887420000,699900,750000,50100,1334,5752,3,1.5,1910,residential,41,Orris St,Melrose,MA,02176,50,False,https://redfin.com/MA/Melrose/41-Orris-St-02176/home/11787010
+1595371860000,579900,597000,17100,1300,5084,3,1.5,1932,residential,120,Boardman Ave,Melrose,MA,02176,48,False,https://redfin.com/MA/Melrose/120-Boardman-Ave-02176/home/11790381
+1597793700000,520000,525000,5000,1272,3850,3,1.5,1962,residential,50,Earl St,Malden,MA,02148,62,False,https://redfin.com/MA/Malden/50-Earl-St-02148/home/11397635
+1597707120000,619900,650000,30100,1836,6350,3,1.5,1930,residential,510,,Malden,MA,02148,32,False,https://redfin.com/MA/Malden/510-Fellsway-E-02148/home/11394498
+1597891020000,469900,461250,-8650,1294,,,,,condo,20,Daniels St,Malden,MA,02148,76,False,https://redfin.com/MA/Malden/20-Daniels-St-02148/unit-415/home/172656885
+1596139260000,589900,670000,80100,1617,8400,3,1.5,1920,residential,21,Pagum St,Malden,MA,02148,35,False,https://redfin.com/MA/Malden/21-Pagum-St-02148/home/11419343
+2020-08-14,462500,,,1294,,2,1.5,1986,condo,20-30,Daniels St,Malden,MA,02148,,,https://redfin.com/MA/Malden/20-30-Daniels-St-02148/unit-415/home/11431858
+1599863100000,629900,629900,0,1340,3190,,,,condo,15,Richard St,Malden,MA,02148,57,False,https://redfin.com/MA/Malden/15-Richard-St-02148/unit-2/home/172508933
+1594360800000,579900,600000,20100,1421,7661,3,1.5,1973,residential,12,Beltran Ter,Malden,MA,02148,42,False,https://redfin.com/MA/Malden/12-Beltran-Ter-02148/home/11395708
+1598998080000,399900,400000,100,1680,13849,3,3.0,1920,residential,26,Swan St,Malden,MA,02148,79,False,https://redfin.com/MA/Malden/26-Swan-St-02148/home/11423024
+1594677600000,349900,349900,0,1224,2333,3,3.0,1900,residential,22,Arch St,Malden,MA,02148,221,False,https://redfin.com/MA/Malden/22-Arch-St-02148/home/11425300
+1597957620000,529900,555000,25100,1778,5028,2,1.5,1900,residential,29,Boston St,Malden,MA,02148,55,False,https://redfin.com/MA/Malden/29-Boston-St-02148/home/11403092
+1598311980000,499900,525021,25121,1470,3393,2,1.5,1977,residential,21,Preston St,Malden,MA,02148,46,False,https://redfin.com/MA/Malden/21-Preston-St-02148/home/11414721
+2020-07-08,420000,,,1776,,2,1.5,1980,condo,46,Crestview Dr,Malden,MA,02148,,,https://redfin.com/MA/Malden/46-Crestview-Dr-02148/unit-46/home/11412254
+1598812560000,450000,440000,-10000,1500,9500,2,3.0,1960,residential,24,Beachview Ave,Malden,MA,02148,53,False,https://redfin.com/MA/Malden/24-Beachview-Ave-02148/home/11421806
+1599078600000,599900,615000,15100,1672,13468,3,3.0,1930,residential,57,Olive Ave,Malden,MA,02148,91,False,https://redfin.com/MA/Malden/57-Olive-Ave-02148/home/11421856
+1599259320000,549900,552000,2100,1622,2700,3,2.5,1927,residential,24,Cottage St,Malden,MA,02148,49,False,https://redfin.com/MA/Malden/24-Cottage-St-02148/home/11417668
+1599690240000,589900,605000,15100,1440,4000,3,1.5,1929,residential,21,Floral Ave,Malden,MA,02148,56,False,https://redfin.com/MA/Malden/21-Floral-Ave-02148/home/11412557
+1597257780000,589900,563500,-26400,1360,5175,2,2.5,1900,residential,37,Playstead Rd,Malden,MA,02148,84,False,https://redfin.com/MA/Malden/37-Playstead-Rd-02148/home/11411269
+1595631120000,484900,490000,5100,1300,4271,3,1.5,1900,residential,66,Rockingham Ave,Malden,MA,02148,70,False,https://redfin.com/MA/Malden/66-Rockingham-Ave-02148/home/11419973
+1597427820000,650000,655000,5000,2072,5126,3,1.5,1994,residential,26,1st St,Malden,MA,02148,66,False,https://redfin.com/MA/Malden/26-1st-St-02148/home/11423198
+1595979060000,549900,630000,80100,1658,9284,3,1.5,1900,residential,25,Milton St,Malden,MA,02148,55,False,https://redfin.com/MA/Malden/25-N-Milton-St-02148/home/11421328
+1595634300000,459900,515000,55100,1281,4089,2,1.5,1900,residential,291,Charles St,Malden,MA,02148,45,False,https://redfin.com/MA/Malden/291-Charles-St-02148/home/11386030
+1600206120000,588000,630000,42000,1628,5600,3,1.5,1930,residential,48,Grimshaw St,Malden,MA,02148,41,False,https://redfin.com/MA/Malden/48-Grimshaw-St-02148/home/11394310
+1596837780000,590000,572000,-18000,1655,5143,3,1.5,1900,residential,15,Charles Street Pl,Malden,MA,02148,64,False,https://redfin.com/MA/Malden/15-Charles-St-Pl-02148/home/11384726
+1595348160000,529900,550000,20100,1564,6480,3,1.5,1961,residential,147,Webster St,Malden,MA,02148,39,False,https://redfin.com/MA/Malden/147-Webster-St-02148/home/11417321
+1593229380000,495000,533000,38000,1785,4007,3,1.5,1921,residential,93,Russell St,Malden,MA,02148,37,False,https://redfin.com/MA/Malden/93-Russell-St-02148/home/11386576
+1593633960000,529900,590000,60100,1514,5085,3,3.0,1890,residential,143,Tremont St,Malden,MA,02148,34,False,https://redfin.com/MA/Malden/143-Tremont-St-02148/home/11406942
+2020-06-26,490000,,,1700,,3,2.0,1910,condo,221-223,Madison St,Malden,MA,02148,,,https://redfin.com/MA/Malden/221-223-Madison-St-02148/unit-221/home/109833482
+2020-07-29,470000,,,1776,,2,1.5,1980,condo,25,Pebble Pl,Malden,MA,02148,,,https://redfin.com/MA/Malden/25-Pebble-Pl-02148/unit-000025/home/11408167
+1595270100000,469000,464000,-5000,1218,,2,2.0,1976,condo,190,High St,Medford,MA,02155,54,False,https://redfin.com/MA/Medford/190-High-St-02155/unit-104/home/11787030
+1593219120000,629000,640000,11000,1889,,,,,condo,183,Central Ave,Medford,MA,02155,51,False,https://redfin.com/MA/Medford/183-Central-Ave-02155/unit-183/home/77513609
+1598644140000,669900,704000,34100,1487,,2,1.0,1910,condo,87,Bristol Rd,Medford,MA,02155,44,False,https://redfin.com/MA/Medford/87-Bristol-Rd-02155/unit-1/home/26841970
+1597185540000,699000,699000,0,1440,3716,3,1.5,1960,residential,44,Hancock Ave,Medford,MA,02155,46,False,https://redfin.com/MA/Medford/44-Hancock-Ave-02155/home/11795400
+2020-07-31,674900,,,1251,,2,2.0,1910,condo,44,Willard Ave,Medford,MA,02155,,,https://redfin.com/MA/Medford/44-Willard-Ave-02155/unit-44/home/168785281
+1599158580000,598000,646000,48000,1575,,,,,condo,64,,Medford,MA,02155,33,False,https://redfin.com/MA/Medford/64-Ashland-St-02155/unit-1/home/172644765
+1597682100000,999000,1110000,111000,1625,23420,3,1.5,1950,residential,51,Mystic St,Medford,MA,02155,66,False,https://redfin.com/MA/Medford/51-Mystic-St-02155/home/11788939
+1596206160000,674900,674900,0,1251,,,,,condo,44-46,Willard Ave,Medford,MA,02155,49,False,https://redfin.com/MA/Medford/44-Willard-Ave-02155/unit-1/home/172053790
+1595998260000,659900,650000,-9900,1644,,3,2.0,1987,condo,8,Ninth St,Medford,MA,02155,174,False,https://redfin.com/MA/Medford/8-9th-St-02155/unit-712/home/11797099
+1598387820000,599900,581000,-18900,1219,,2,2.0,1987,condo,8,Ninth St,Medford,MA,02155,48,False,https://redfin.com/MA/Medford/8-9th-St-02155/unit-305/home/11796987
+1599180480000,579900,630000,50100,1238,3625,3,1.0,1920,residential,40,Charnwood Rd,Medford,MA,02155,50,False,https://redfin.com/MA/Medford/40-Charnwood-Rd-02155/home/11794926
+1594665840000,559900,545000,-14900,1458,4462,3,1.5,1920,residential,127,Westwood Rd,Medford,MA,02155,71,False,https://redfin.com/MA/Medford/127-Westwood-Rd-02155/home/11780624
+1597431180000,650000,735000,85000,1231,3200,3,1.5,1910,residential,68,Piggott Rd,Medford,MA,02155,50,False,https://redfin.com/MA/Medford/68-Piggott-Rd-02155/home/11793339
+1598722860000,695000,753500,58500,1998,7000,3,2.0,1983,residential,50,Hastings Ln,Medford,MA,02155,42,False,https://redfin.com/MA/Medford/50-Hastings-Ln-02155/home/11789004
+1599073500000,639900,673500,33600,1700,7200,3,2.5,1925,residential,24,Carberry St,Medford,MA,02155,39,False,https://redfin.com/MA/Medford/24-Carberry-St-02155/home/11779885
+1598664120000,719988,712000,-7988,1652,5000,3,1.5,1910,residential,19,SHERMAN Ct,Medford,MA,02155,72,False,https://redfin.com/MA/Medford/19-Sherman-Ct-02155/home/11793883
+1600206120000,588000,630000,42000,1628,5600,3,1.5,1930,residential,48,Grimshaw St,Malden,MA,02148,41,False,https://redfin.com/MA/Malden/48-Grimshaw-St-02148/home/11394310
+1600734120000,509000,470000,-39000,1548,3940,3,1.5,1920,residential,120,Jerome St,Medford,MA,02155,118,False,https://redfin.com/MA/Medford/120-Jerome-St-02155/home/11792463
+2020-07-24,650000,,,1586,3990,3,1.5,1989,residential,96,Circuit Rd,Medford,MA,02155,,,https://redfin.com/MA/Medford/96-Circuit-Rd-02155/home/11781918
+2020-08-28,925000,,,1965,12632,3,1.5,1850,residential,50,Pleasant St,Medford,MA,02155,,,https://redfin.com/MA/Medford/50-Pleasant-St-02155/home/11793023
+1597789740000,689500,740000,50500,1570,5980,3,1.5,1918,residential,35,Cushing St,Medford,MA,02155,42,False,https://redfin.com/MA/Medford/35-Cushing-St-02155/home/11793734
+1600474320000,560000,620000,60000,1618,4205,1,2.0,1935,residential,33,Taft St,Medford,MA,02155,37,False,https://redfin.com/MA/Medford/33-Taft-St-02155/home/11778263
+1598900340000,699900,808000,108100,1672,6387,3,1.5,1922,residential,69,Ashcroft Rd,Medford,MA,02155,39,False,https://redfin.com/MA/Medford/69-Ashcroft-Rd-02155/home/11783608
+1594250400000,515000,551000,36000,1262,4559,3,1.5,1900,residential,89,Belle Ave,Medford,MA,02155,49,False,https://redfin.com/MA/Medford/89-Belle-Ave-02155/home/11778609
+1599861720000,550000,540000,-10000,1432,7040,3,1.5,1965,residential,80,Woodruff Ave,Medford,MA,02155,401,False,https://redfin.com/MA/Medford/80-Woodruff-Ave-02155/home/11794621
+1597425660000,629900,660000,30100,1676,5001,4,1.5,1991,residential,188,Gaston St,Medford,MA,02155,36,False,https://redfin.com/MA/Medford/188-Gaston-St-02155/home/11777368
+1598052660000,539000,535000,-4000,1206,1,2,2.0,1988,condo,3920,Mystic Valley Pkwy,Medford,MA,02155,44,False,https://redfin.com/MA/Medford/3920-Mystic-Valley-Pkwy-02155/unit-504/home/11776710
+1599768960000,589900,630000,40100,1630,4284,3,1.0,1925,residential,76,Saunders St,Medford,MA,02155,49,False,https://redfin.com/MA/Medford/76-Saunders-St-02155/home/11778440
+1597342020000,675000,740000,65000,1800,7219,3,1.5,1900,residential,20,Park St Ct,Medford,MA,02155,58,False,https://redfin.com/MA/Medford/20-Park-St-Ct-02155/home/11791690
+1598052060000,599750,595000,-4750,1646,4356,3,1.5,1880,residential,13,Vine St,Medford,MA,02155,64,False,https://redfin.com/MA/Medford/13-Vine-St-02155/home/11791664
+1595270640000,599000,607000,8000,1717,4508,2,1.5,1900,residential,27,Murray Hill Rd,Medford,MA,02155,48,False,https://redfin.com/MA/Medford/27-Murray-Hill-Rd-02155/home/11784086
+1595460240000,600000,660000,60000,1350,2718,2,2.0,1895,residential,106,Moreland St,Somerville,MA,02145,36,False,https://redfin.com/MA/Somerville/106-Moreland-St-02145/home/8713208
+1593227940000,529900,610000,80100,1309,6310,3,1.5,1900,residential,39,Grant Ave,Medford,MA,02155,53,False,https://redfin.com/MA/Medford/39-Grant-Ave-02155/home/11791742
+1594319460000,720000,795000,75000,1400,6877,3,1.5,1920,residential,9,Hatch Rd,Medford,MA,02155,57,False,https://redfin.com/MA/Medford/9-Hatch-Rd-02155/home/11786690
+1593631080000,549000,575000,26000,2274,6734,3,1.5,1925,residential,841,,Medford,MA,02155,57,False,https://redfin.com/MA/Medford/841-Fellsway-W-02155/home/11777646
+1596213120000,599000,625000,26000,1229,1,2,2.0,1988,condo,3920,Mystic Valley Pkwy,Medford,MA,02155,52,False,https://redfin.com/MA/Medford/3920-Mystic-Valley-Pkwy-02155/unit-1112/home/11776848
+1600464360000,995000,965000,-30000,1239,,2,2.0,2007,condo,100,Station Lndg,Medford,MA,02155,115,False,https://redfin.com/MA/Medford/100-Station-Lndg-02155/unit-1011/home/18906668
+1593822240000,549900,542500,-7400,1258,,3,2.0,1988,condo,500,Salem St,Medford,MA,02155,54,False,https://redfin.com/MA/Medford/500-Salem-St-02155/unit-804/home/11784291
+1594394160000,729000,763000,34000,1433,6650,3,1.0,1880,residential,26,Webster St,Medford,MA,02155,34,False,https://redfin.com/MA/Medford/26-Webster-St-02155/home/11787481
+1599165600000,544000,565000,21000,1458,4749,3,2.0,1955,residential,15,Foss St,Medford,MA,02155,56,False,https://redfin.com/MA/Medford/15-Foss-St-02155/home/11779068
+1598580780000,539900,587000,47100,1408,5600,3,1.0,1920,residential,16,ELM St,Medford,MA,02155,44,False,https://redfin.com/MA/Medford/16-Elm-St-02155/home/11777751
+1598035260000,609900,620000,10100,1488,5000,3,1.5,1949,residential,67,Roberts Rd,Medford,MA,02155,50,False,https://redfin.com/MA/Medford/67-Roberts-Rd-02155/home/11781370
+1599621660000,659000,715000,56000,1809,7080,2,1.5,1940,residential,438,,Medford,MA,02155,41,False,https://redfin.com/MA/Medford/438-Winthrop-St-02155/home/11783194
+1593812520000,729000,760000,31000,1668,5500,3,1.5,1925,residential,12,Roberts Rd,Medford,MA,02155,36,False,https://redfin.com/MA/Medford/12-Roberts-Rd-02155/home/11782809
+1599844980000,749000,740000,-9000,1825,6500,3,1.5,1900,condo,34,Quincy St,Medford,MA,02155,65,False,https://redfin.com/MA/Medford/34-Quincy-St-02155/unit-1/home/136838109
+1593622680000,739900,770000,30100,1800,6025,3,2.5,1930,residential,32,Dover St,Medford,MA,02155,47,False,https://redfin.com/MA/Medford/32-Dover-St-02155/home/11784917
+1599672420000,589900,589900,0,1454,4300,3,2.0,1910,residential,5,Elsmere Ter,Medford,MA,02155,61,False,https://redfin.com/MA/Medford/5-Elsmere-Ter-02155/home/11799273
+1595023740000,700000,721000,21000,1900,6300,3,1.0,1920,residential,518,Winthrop St,Medford,MA,02155,42,False,https://redfin.com/MA/Medford/518-Winthrop-St-02155/home/11781560
+1596830640000,599900,599900,0,1260,5000,3,1.5,1953,residential,113,Roberts Rd,Medford,MA,02155,44,False,https://redfin.com/MA/Medford/113-Roberts-Rd-02155/home/11782714
+1595630640000,539900,550000,10100,1206,1,2,2.0,1988,condo,3920,Mystic Valley Pkwy,Medford,MA,02155,57,False,https://redfin.com/MA/Medford/3920-Mystic-Valley-Pkwy-02155/unit-320/home/11776479
+1596815400000,775000,755000,-20000,1365,,2,1.5,1983,condo,83,Church St,Winchester,MA,01890,63,False,https://redfin.com/MA/Winchester/83-Church-St-01890/unit-15/home/11467444
+1593571800000,979000,999000,20000,1837,6512,3,2.5,1930,residential,15,Bonad Rd,Winchester,MA,01890,46,False,https://redfin.com/MA/Winchester/15-Bonad-Rd-01890/home/11440661
+1598990580000,724900,712500,-12400,1779,17498,3,2.0,1964,residential,388,Cambridge St,Winchester,MA,01890,102,False,https://redfin.com/MA/Winchester/388-Cambridge-St-01890/home/11464119
+1599189120000,459900,470000,10100,1452,7540,,,,condo,299,,Winchester,MA,01890,41,False,https://redfin.com/MA/Winchester/299-Cross-St-01890/unit-299/home/172576262
+1598982780000,699000,723000,24000,1330,,,,,condo,149,Washington St,Winchester,MA,01890,47,False,https://redfin.com/MA/Winchester/149-Washington-St-01890/unit-149/home/145659099
+1593210900000,875000,865000,-10000,1678,3480,3,1.5,1903,residential,3,Wildwood Ter,Winchester,MA,01890,97,False,https://redfin.com/MA/Winchester/3-Wildwood-Ter-01890/home/11455979
+1594448520000,1050000,1113000,63000,2700,17942,3,2.5,2008,residential,56,Dunster Ln,Winchester,MA,01890,45,False,https://redfin.com/MA/Winchester/56-Dunster-Ln-01890/home/11463041
+2020-06-25,675000,,,1530,,2,1.5,1986,condo,22,Grove Pl,Winchester,MA,01890,,,https://redfin.com/MA/Winchester/22-Grove-Pl-01890/unit-6/home/11447820
+1595462460000,859000,954000,95000,2643,12702,3,2.0,1946,residential,14,New Meadows Rd,Winchester,MA,01890,44,False,https://redfin.com/MA/Winchester/14-New-Meadows-Rd-01890/home/11461217
+1595008140000,620000,590000,-30000,1708,5502,3,2.5,1920,residential,74,Sylvester Ave,Winchester,MA,01890,57,False,https://redfin.com/MA/Winchester/74-Sylvester-Ave-01890/home/11454788
+1595080980000,745000,771000,26000,1271,5090,3,1.5,1900,residential,5,Cutting St,Winchester,MA,01890,46,False,https://redfin.com/MA/Winchester/5-Cutting-St-01890/home/11448490
+1596478440000,799900,770000,-29900,1505,11112,3,2.0,1930,residential,437,Highland Ave,Winchester,MA,01890,84,False,https://redfin.com/MA/Winchester/437-Highland-Ave-01890/home/11466904
+2020-08-31,723000,,,1177,,2,1.0,1910,condo,149,Washington St,Winchester,MA,01890,,,https://redfin.com/MA/Winchester/149-Washington-St-01890/unit-000149/home/11468137
+1597261200000,849900,905000,55100,2009,7475,3,1.5,1950,residential,43,Nathaniel Rd,Winchester,MA,01890,61,False,https://redfin.com/MA/Winchester/43-Nathaniel-Rd-01890/home/11451682
+1600714020000,739900,690000,-49900,2049,11570,3,1.0,1910,residential,119,Forest St,Winchester,MA,01890,102,False,https://redfin.com/MA/Winchester/119-Forest-St-01890/home/11441060
+1598661240000,539000,585000,46000,1831,13499,,,,condo,5,Ridge St,Winchester,MA,01890,42,False,https://redfin.com/MA/Winchester/5-Ridge-St-01890/unit-5/home/172511841
+1599064680000,510000,530000,20000,1349,13499,,,,condo,3,Ridge St,Winchester,MA,01890,47,False,https://redfin.com/MA/Winchester/3-Ridge-ST-01890/unit-3/home/172511804
+1597690980000,799000,850000,51000,1450,6630,3,1.5,1942,residential,18,Bonad Rd,Winchester,MA,01890,52,False,https://redfin.com/MA/Winchester/18-Bonad-Rd-01890/home/11440755
+1599166140000,859000,835000,-24000,1970,14471,3,1.5,1956,residential,4,Hinds Rd,Winchester,MA,01890,77,False,https://redfin.com/MA/Winchester/4-Hinds-Rd-01890/home/11439821
+1599008340000,939000,920000,-19000,2113,16209,3,1.5,1956,residential,237,High St,Winchester,MA,01890,104,False,https://redfin.com/MA/Winchester/237-High-St-01890/home/11465299
+1599153900000,610000,600000,-10000,1412,18480,3,1.5,1963,residential,394,Cambridge St,Winchester,MA,01890,297,False,https://redfin.com/MA/Winchester/394-Cambridge-St-01890/home/11464124
+1596487620000,499900,535000,35100,1344,29517,3,2.5,1960,residential,42,Mill St,Burlington,MA,01803,61,False,https://redfin.com/MA/Burlington/42-Mill-St-01803/home/8453786
+1598323740000,510000,530000,20000,1440,24829,3,1.5,1960,residential,80,Wilmington Rd,Burlington,MA,01803,39,False,https://redfin.com/MA/Burlington/80-Wilmington-Rd-01803/home/11376646
+1596164280000,699900,685000,-14900,2052,20130,3,1.5,1968,residential,39,Chandler Rd,Burlington,MA,01803,62,False,https://redfin.com/MA/Burlington/39-Chandler-Rd-01803/home/8448714
+1600104480000,459900,480000,20100,1829,9111,4,2.0,1939,residential,9,Church Ln,Burlington,MA,01803,60,False,https://redfin.com/MA/Burlington/9-Church-Ln-01803/home/8452195
+1599760140000,559900,555000,-4900,1640,12438,3,2.5,1964,residential,2,Richardson Rd,Burlington,MA,01803,56,False,https://redfin.com/MA/Burlington/2-Richardson-Rd-01803/home/8464526
+1600561440000,629900,699999,70099,2009,21550,3,1.5,1954,residential,5,Keans Rd,Burlington,MA,01803,65,False,https://redfin.com/MA/Burlington/5-Keans-Rd-01803/home/8461525
+1597986360000,599000,617000,18000,1911,20118,3,1.5,1978,residential,205,Winn St,Burlington,MA,01803,42,False,https://redfin.com/MA/Burlington/205-Winn-St-01803/home/8454063
+1596588960000,569000,590000,21000,1575,20010,3,1.5,1956,residential,21,Corcoran Rd,Burlington,MA,01803,40,False,https://redfin.com/MA/Burlington/21-Corcoran-Rd-01803/home/8455178
+1594835100000,499900,475000,-24900,1344,20473,3,2.5,1956,residential,20,,Burlington,MA,01803,61,False,https://redfin.com/MA/Burlington/20-St-Marys-Rd-01803/home/8440327
+1593473220000,499900,550229,50329,1733,21398,3,1.5,1972,residential,9,Given Dr,Burlington,MA,01803,109,False,https://redfin.com/MA/Burlington/9-Given-Dr-01803/home/8466636
+1595884920000,689900,745000,55100,3654,26000,3,2.5,1956,residential,25,Cresthaven Dr,Burlington,MA,01803,59,False,https://redfin.com/MA/Burlington/25-Cresthaven-Dr-01803/home/8448273
+1595540400000,524900,600000,75100,1374,20747,3,2.5,1975,residential,3,Gardner Way,Burlington,MA,01803,35,False,https://redfin.com/MA/Burlington/3-Gardner-Way-01803/home/8441793
+1599851520000,619900,670000,50100,2133,20000,4,2.0,1960,residential,1,Woodhill Rd,Burlington,MA,01803,44,False,https://redfin.com/MA/Burlington/1-Woodhill-Rd-01803/home/8437410
+1597702680000,700000,757500,57500,1996,20082,3,2.0,1966,residential,23,Daniel Dr,Burlington,MA,01803,53,False,https://redfin.com/MA/Burlington/23-Daniel-Dr-01803/home/8459116
+1597985640000,629000,637500,8500,2207,30400,2,1.5,1971,residential,25,Freeport Dr,Burlington,MA,01803,44,False,https://redfin.com/MA/Burlington/25-Freeport-Dr-01803/home/8444116
+1599413040000,644000,696000,52000,1826,6400,3,2.5,1995,residential,6,Grandview Ave,Burlington,MA,01803,59,False,https://redfin.com/MA/Burlington/6-Grandview-Ave-01803/home/8458999
+1593127380000,592900,625000,32100,2517,18600,3,2.0,1948,residential,8,Pontos Ave,Burlington,MA,01803,86,False,https://redfin.com/MA/Burlington/8-Pontos-Ave-01803/home/8447364
+1599696360000,524999,500000,-24999,1552,20035,3,1.5,1967,residential,37,Westwood St,Burlington,MA,01803,1,False,https://redfin.com/MA/Burlington/37-Westwood-St-01803/home/8437041
+1596355020000,634000,700000,66000,1918,16900,3,2.0,1982,residential,16,Ruthven Ave,Burlington,MA,01803,80,False,https://redfin.com/MA/Burlington/16-Ruthven-Ave-01803/home/8465679
+1597250700000,779000,825000,46000,2779,20000,3,2.0,1986,residential,4,Tinkham Ave,Burlington,MA,01803,75,False,https://redfin.com/MA/Burlington/4-Tinkham-Ave-01803/home/8443285
+1596001080000,549000,565000,16000,1554,25651,3,1.5,1962,residential,7,ALCINE Ln,Burlington,MA,01803,41,False,https://redfin.com/MA/Burlington/7-Alcine-Ln-01803/home/8438455
+1597438620000,595500,580000,-15500,1842,21079,3,2.5,1964,residential,23,Mallard Way,Burlington,MA,01803,50,False,https://redfin.com/MA/Burlington/23-Mallard-Way-01803/home/8443559
+1593801780000,600000,587500,-12500,2036,9750,3,1.5,1975,residential,9,Edgemont Ave,Burlington,MA,01803,63,False,https://redfin.com/MA/Burlington/9-Edgemont-Ave-01803/home/8452139
+1596131220000,549900,539900,-10000,1288,21000,3,2.0,1955,residential,8,Duncan Rd,Burlington,MA,01803,41,False,https://redfin.com/MA/Burlington/8-Duncan-Rd-01803/home/8462054
+1596139080000,559000,571000,12000,2416,19367,2,2.0,1976,residential,2,Francis Wyman Rd,Burlington,MA,01803,50,False,https://redfin.com/MA/Burlington/2-Francis-Wyman-Rd-01803/home/8440584
+1597761780000,574900,580000,5100,2008,20000,3,1.5,1957,residential,51,Beaverbrook Rd,Burlington,MA,01803,46,False,https://redfin.com/MA/Burlington/51-Beaverbrook-Rd-01803/home/8439338
+1595080980000,489995,505000,15005,2158,20000,3,1.0,1956,residential,92,Wilmington Rd,Burlington,MA,01803,36,False,https://redfin.com/MA/Burlington/92-Wilmington-Rd-01803/home/8438615
+1598644140000,669900,704000,34100,1487,,2,1.0,1910,condo,87,Bristol Rd,Medford,MA,02155,44,False,https://redfin.com/MA/Medford/87-Bristol-Rd-02155/unit-1/home/26841970
+1598569020000,669900,704000,34100,1487,,,,,condo,87,Bristol Rd,Somerville,MA,02144,43,False,https://redfin.com/MA/Somerville/87-Bristol-Rd-02144/unit-1/home/103661385
+2020-08-28,870000,,,1300,,3,2.0,1900,condo,11,Landers St,Somerville,MA,02143,,,https://redfin.com/MA/Somerville/11-Landers-St-02143/unit-2/home/101678255
+2020-08-14,810000,,,1717,,3,2.0,1900,condo,19,Laurel St,Somerville,MA,02143,,,https://redfin.com/MA/Somerville/19-Laurel-St-02143/unit-19/home/8750760
+1598369460000,899900,930000,30100,1813,,3,2.0,1900,condo,46,Cameron Ave,Somerville,MA,02144,46,False,https://redfin.com/MA/Somerville/46-Cameron-Ave-02144/unit-2/home/8755609
+1593715680000,749000,749000,0,1636,,2,2.0,1900,condo,11,Lee St,Somerville,MA,02145,49,False,https://redfin.com/MA/Somerville/11-Lee-St-02145/unit-1/home/143937260
+1597468260000,829000,810000,-19000,1717,,,,,condo,19,Laurel St,Somerville,MA,02143,101,False,https://redfin.com/MA/Somerville/19-Laurel-St-02143/unit-2/home/136771356
+1597423680000,779000,805000,26000,1470,,2,2.0,1915,condo,14,Fiske Ave,Somerville,MA,02145,56,False,https://redfin.com/MA/Somerville/14-Fisk-Ave-02145/unit-1/home/112896879
+1599256200000,775000,770000,-5000,1320,1680,2,1.5,1910,residential,29,Wesley St,Somerville,MA,02145,63,False,https://redfin.com/MA/Somerville/29-Wesley-St-02145/home/8731555
+1599141600000,699999,745000,45001,1600,2893,3,2.5,1890,residential,25,Otis St,Somerville,MA,02145,70,False,https://redfin.com/MA/Somerville/25-Otis-St-02145/home/8747650
+1597188180000,779000,780000,1000,1555,,2,1.5,1920,condo,292,Summer St,Somerville,MA,02144,63,False,https://redfin.com/MA/Somerville/292-Summer-St-02144/unit-2/home/109450188
+1595621640000,1299900,1530000,230100,1688,3213,3,1.5,1920,residential,26,Hancock St,Somerville,MA,02144,45,False,https://redfin.com/MA/Somerville/26-Hancock-St-02144/home/8743785
+1593455880000,749999,918300,168301,1256,2400,3,1.5,1905,residential,15,Mountain Ave,Somerville,MA,02143,52,False,https://redfin.com/MA/Somerville/15-Mountain-Ave-02143/home/8705312
+1593626880000,869000,945000,76000,1500,6000,3,1.5,1900,residential,16,Chetwynd Rd,Somerville,MA,02144,57,False,https://redfin.com/MA/Somerville/16-Chetwynd-Rd-02144/home/8685683
+1599118680000,675000,675000,0,1458,,3,2.0,1988,condo,75,Mt. Vernon St,Somerville,MA,02145,64,False,https://redfin.com/MA/Somerville/75-Mt-Vernon-St-02145/unit-B/home/8749218
+1595094480000,724900,718500,-6400,1350,2879,3,1.0,1910,residential,26,Mondamin Ct,Somerville,MA,02143,44,False,https://redfin.com/MA/Somerville/26-Mondamin-Ct-02143/home/8713059
+1596067560000,699900,735000,35100,1358,,2,2.0,1900,condo,76,Flint St,Somerville,MA,02145,43,False,https://redfin.com/MA/Somerville/76-Flint-St-02145/unit-2/home/109464218
+1595460240000,600000,660000,60000,1350,2718,2,2.0,1895,residential,106,Moreland St,Somerville,MA,02145,36,False,https://redfin.com/MA/Somerville/106-Moreland-St-02145/home/8713208
+1599773220000,765000,815000,50000,1276,,3,1.5,1910,condo,11,Russell Rd,Somerville,MA,02144,43,False,https://redfin.com/MA/Somerville/11-Russell-Rd-02144/unit-2/home/8686913
+1600290240000,1078000,1098000,20000,1397,,,,,condo,227,Cedar St,Somerville,MA,02145,76,False,https://redfin.com/MA/Somerville/227-Cedar-St-02145/unit-10/home/172351799
+1598980380000,765000,775000,10000,1420,,3,2.0,1920,condo,111,Glenwood Rd,Somerville,MA,02145,49,False,https://redfin.com/MA/Somerville/111-Glenwood-Rd-02145/unit-1/home/40290705
+1593732060000,749900,775000,25100,1552,,2,2.0,1900,condo,54,Dartmouth St,Somerville,MA,02145,61,False,https://redfin.com/MA/Somerville/54-Dartmouth-St-02145/unit-1/home/8750975
+1599587400000,925000,950000,25000,1302,,2,2.0,1988,condo,435,Washington St,Somerville,MA,02143,20,False,https://redfin.com/MA/Somerville/435-Washington-St-02143/unit-401/home/8745865
+1593317460000,624999,610000,-14999,1284,5000,2,2.0,1900,condo,20,Highland Ave,Somerville,MA,02143,157,False,https://redfin.com/MA/Somerville/20-Highland-Ave-02143/unit-1/home/18906874
+2020-06-29,890000,,,1455,,2,2.0,2013,condo,143,Cedar St,Somerville,MA,02144,,,https://redfin.com/MA/Somerville/143-Cedar-St-02144/unit-10/home/54798458
+1595706720000,949000,965000,16000,1574,5329,3,1.5,1910,residential,25,Appleton St,Somerville,MA,02144,53,False,https://redfin.com/MA/Somerville/25-Appleton-St-02144/home/8696491
+1596125580000,769900,817000,47100,1350,2340,3,2.0,1910,residential,37,Alpine St,Somerville,MA,02144,59,False,https://redfin.com/MA/Somerville/37-Alpine-St-02144/home/8704334
