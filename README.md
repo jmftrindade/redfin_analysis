@@ -2,7 +2,7 @@
 
 Dead-simple analysis (e.g., simple histograms) of recently sold homes using Redfin data.
 
-Currently only looks at specific types of homes [(2 to 3 BR, 1.25+ BA, 1200+ sqft)](https://github.com/jmftrindade/redfin_analysis/blob/b7754819c3b52d4190e8a9f4cdec005e7ee8a89c/main.py#L74) sold [in the last 90 days](https://github.com/jmftrindade/redfin_analysis/blob/master/main.py#L7), and only in [select cities from the Greater Boston area]((https://github.com/jmftrindade/redfin_analysis/blob/b7754819c3b52d4190e8a9f4cdec005e7ee8a89c/main.py#L171)).
+Currently only looks at specific types of homes [(2 to 3 BR, 1.25+ BA, 1200+ sqft)](https://github.com/jmftrindade/redfin_analysis/blob/b7754819c3b52d4190e8a9f4cdec005e7ee8a89c/main.py#L74) sold [in the last 90 days](https://github.com/jmftrindade/redfin_analysis/blob/master/main.py#L7), and only in [select cities from the Greater Boston area](https://github.com/jmftrindade/redfin_analysis/blob/b7754819c3b52d4190e8a9f4cdec005e7ee8a89c/main.py#L171).
 
 # Requirements
 
