@@ -34,6 +34,7 @@ Make sure to update the ids of cities of interest, which are [currently hardcode
 
 This script uses Redfin *city* ids, and not neighborhood ids, e.g., you want "29663" (https://www.redfin.com/city/29663/MA/Burlington) and not "497396" (https://www.redfin.com/neighborhood/497396/MA/Burlington/Burlington) for Burlington, MA.
 
+To run the scraper:
 ```
 $ python3 main.py
 ```
