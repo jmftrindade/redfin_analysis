@@ -6,13 +6,14 @@ Currently only looks at specific types of homes [(2 to 3 BR, 1.25+ BA, 1200+ sqf
 
 # Requirements
 
-For Jupyter notebooks:
+For running Jupyter notebooks:
 ```bash
 # Install prereqs.
 $ pip install wheel
 $ pip install ipykernel jupyter
 ```
 
+For running the "analysis" in the notebook:
 ```
 # Data processing.
 $ pip install pandas
